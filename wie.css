@@ -44,15 +44,12 @@ h2 {
 
 .times {
 	font-weight: bold;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding: 25px;
 	font-size: 230%;
 	background-color: orange;
 	color: darkblue;
-	width: 60%;
-	height: 30%%;
-	margin-left: 2px;
-	margin-right: 2px;
+	width: 350px;
+	height: 50px;
 	border-radius: 45%;
 	border-style: solid;
 }

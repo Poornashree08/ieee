@@ -149,6 +149,6 @@ iframe{
 
 @media only screen and (max-width: 600px) {
 	.times {
-	width:100%;
+	width:100vw;
 }
 }

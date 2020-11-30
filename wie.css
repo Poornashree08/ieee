@@ -143,3 +143,10 @@ iframe{
 	margin-bottom: 9vh;
 }
 
+@media only screen and (max-width: 768px) {
+	.times {
+		width:100%;
+	}
+}
+	
+
